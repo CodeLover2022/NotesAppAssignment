@@ -17,6 +17,13 @@ Screenshots:-
 
 ![image](https://github.com/CodeLover2022/NotesAppAssignment/assets/103954318/d2aefb50-a9de-4a27-8c6f-72f84b7764df)
 
+# Tutorial video
+
+
+https://github.com/CodeLover2022/NotesAppAssignment/assets/103954318/0a9b10b2-85d7-48aa-9d3a-31b7431559d8
+
+
+
 
 
 
